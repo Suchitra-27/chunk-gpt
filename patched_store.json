@@ -1,0 +1,11 @@
+[
+  {
+    "chunk_id": "583609b8-b72c-4072-97cc-f210bb1e081f",
+    "original": "Sample PDF Document\nRobert Maron\nGrzegorz Grudzi\u00b4nski\nFebruary 20, 1999\n\n2\n\nContents\n1\nTemplate\n5\n1.1\nHow to compile a .tex \ufb01le to a .pdf \ufb01le . . . . . . . . . . . . .\n5\n1.1.1\nTools\n. . . . . . . . . . . . . . . . . . . . . . . . . . . .\n5\n1.1.2\nHow to use the tools\n. . . . . . . . . . . . . . . . . . . .\n5\n1.2\nHow to write a document . . . . . . . . . . . . . . . . . . . . . .\n6\n1.2.1\nThe main document . . . . . . . . . . . . . . . . . . . . .\n6\n1.2.2\nChapters\n. . . . . . . . . . . . . . . . . . . . . . . . . .\n6\n1.2.3\nSpell-checking . . . . . . . . . . . . . . . . . . . . . . .\n6\n1.3\nLATEX and pdfLATEX capabilities . . . . . . .",
+    "patched": " Robert Maron: \"How to compile a .tex \ufb01le to a .pdf\" February 20, 1999 . The document is written by Grzegorz Grudzi\u00b4nski .",
+    "version": 2,
+    "approved": true,
+    "timestamp": "2025-06-08T01:43:19.913659",
+    "approved_at": "2025-06-08T01:55:47.407346"
+  }
+]
