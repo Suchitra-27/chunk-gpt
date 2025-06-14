@@ -60,7 +60,6 @@ orjson==3.10.18
 packaging==24.2
 pillow==11.2.1
 pinecone==7.0.2
-pinecone-client==6.0.0
 pinecone-plugin-assistant==1.6.1
 pinecone-plugin-interface==0.0.7
 propcache==0.3.1
